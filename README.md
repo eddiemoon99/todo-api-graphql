@@ -1,6 +1,6 @@
 # Todo List GraphQL API
 
-This repo contains the source code for an example CRUD API for a todo list application. This API was create using the following:
+This repo contains the source code for an example CRUD API for a todo list application. This API was created using the following:
 * Node.js
 * GraphQL
 * MongoDB
